@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '0FA2413FF71A34F748F8358C7F97C556'
+               BlueprintIdentifier = 'C02E650CCA19EA561800B0262E2E6EAC'
                BlueprintName = 'Pods-JMApp_debug-tvOS'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libPods-JMApp_debug-tvOS.a'>

@@ -5,6 +5,10 @@ This application makes use of the following third party libraries:
 
 Copyright 2018 Google
 
+## FirebaseABTesting
+
+Copyright 2017 Google
+
 ## FirebaseAnalytics
 
 Copyright 2018 Google
@@ -17,6 +21,10 @@ Copyright 2018 Google
 
 Copyright 2018 Google
 
+## FirebaseCrash
+
+Copyright 2017 Google
+
 ## FirebaseDatabase
 
 Copyright 2018 Google
@@ -26,6 +34,18 @@ Copyright 2018 Google
 Copyright 2017 Google
 
 ## FirebaseMessaging
+
+Copyright 2017 Google
+
+## FirebasePerformance
+
+Copyright 2018 Google
+
+## FirebaseRemoteConfig
+
+Copyright 2018 Google
+
+## FirebaseSwizzlingUtilities
 
 Copyright 2017 Google
 

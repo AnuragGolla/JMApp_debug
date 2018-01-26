@@ -13,6 +13,8 @@
 		00C302E91ABCBA2D00DB3ED1 /* libRCTNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */; };
 		00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302E41ABCB9EE00DB3ED1 /* libRCTVibration.a */; };
 		00E356F31AD99517003FC87E /* JMApp_debugTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* JMApp_debugTests.m */; };
+		088FC9DD1B459EC9DAD8B865 /* libPods-JMApp_debug-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 31124FAF64C9F2671957D049 /* libPods-JMApp_debug-tvOS.a */; };
+		1221BA47AA67782C92A53942 /* libPods-JMApp_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 098C068306489FFCDBD93456 /* libPods-JMApp_debug.a */; };
 		133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C398B91ACF4ADC00677621 /* libRCTLinking.a */; };
 		139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139105C11AF99BAD00B5F7CC /* libRCTSettings.a */; };
 		139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139FDEF41B06529B00C62182 /* libRCTWebSocket.a */; };
@@ -22,7 +24,6 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
-		14AA4A3A455662FDE240EC44 /* libPods-JMApp_debug-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CD034A013D9128C3DDFEA8B3 /* libPods-JMApp_debug-tvOSTests.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -35,13 +36,13 @@
 		2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E991DF850E9000B6D8A /* libRCTWebSocket-tvOS.a */; };
 		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* JMApp_debugTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* JMApp_debugTests.m */; };
+		3E9368790789652C1F64E0E7 /* libPods-JMApp_debug-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 86C4B6F6845624DFC9333A5B /* libPods-JMApp_debug-tvOSTests.a */; };
+		4FB82B73E41144AFADB3D69E /* libRNFirebase.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9BEE269C5DBA4295971D08D1 /* libRNFirebase.a */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
-		7150879ECBA54F82586CA505 /* libPods-JMApp_debugTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A2A5E8AC096D89C825C49C2 /* libPods-JMApp_debugTests.a */; };
+		675C37D3C7A528D578BA0250 /* libPods-JMApp_debugTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C1978AAE1597DB095206659 /* libPods-JMApp_debugTests.a */; };
 		75CC8317201BB6D4000032DF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 75CC82E1201BB6D4000032DF /* GoogleService-Info.plist */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		AB2993C3F57FCED980E2791F /* libPods-JMApp_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4680BF0C9225FE7C6E614038 /* libPods-JMApp_debug.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
-		F83700F720CC503EEE1DB174 /* libPods-JMApp_debug-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E0EE22AA589D1A8474B43CF /* libPods-JMApp_debug-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -297,6 +298,13 @@
 			remoteGlobalIDString = 9936F32F1F5F2E5B0010BF04;
 			remoteInfo = "privatedata-tvOS";
 		};
+		75CC8481201BD0B9000032DF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DA305D063EE84DE596394F6D /* RNFirebase.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 134814201AA4EA6300B7C361;
+			remoteInfo = RNFirebase;
+		};
 		78C398B81ACF4ADC00677621 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */;
@@ -330,8 +338,9 @@
 		00E356EE1AD99517003FC87E /* JMApp_debugTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JMApp_debugTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* JMApp_debugTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JMApp_debugTests.m; sourceTree = "<group>"; };
-		04E4D0CCAB1C6A1887A198C6 /* Pods-JMApp_debug-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug-tvOSTests/Pods-JMApp_debug-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		0A2A5E8AC096D89C825C49C2 /* libPods-JMApp_debugTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JMApp_debugTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		098C068306489FFCDBD93456 /* libPods-JMApp_debug.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JMApp_debug.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0B6E28CA92576E4C435E4850 /* Pods-JMApp_debug.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug/Pods-JMApp_debug.debug.xcconfig"; sourceTree = "<group>"; };
+		0C1978AAE1597DB095206659 /* libPods-JMApp_debugTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JMApp_debugTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* JMApp_debug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JMApp_debug.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -342,24 +351,25 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = JMApp_debug/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = JMApp_debug/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
-		2437575BFA0131E2CB33F244 /* Pods-JMApp_debug-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* JMApp_debug-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "JMApp_debug-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* JMApp_debug-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "JMApp_debug-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		34D01DE299381CBF95F49671 /* Pods-JMApp_debug-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug-tvOSTests/Pods-JMApp_debug-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		3E0EE22AA589D1A8474B43CF /* libPods-JMApp_debug-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JMApp_debug-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4680BF0C9225FE7C6E614038 /* libPods-JMApp_debug.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JMApp_debug.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		31124FAF64C9F2671957D049 /* libPods-JMApp_debug-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JMApp_debug-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		323B53D68E0203175F117D64 /* Pods-JMApp_debug-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug-tvOSTests/Pods-JMApp_debug-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		49BACBA68DBDD4DD1C3566C4 /* Pods-JMApp_debug.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug/Pods-JMApp_debug.release.xcconfig"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
-		631D2020ADF3A1C7099228C2 /* Pods-JMApp_debugTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debugTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debugTests/Pods-JMApp_debugTests.release.xcconfig"; sourceTree = "<group>"; };
+		60682B163AFB3080D21AA206 /* Pods-JMApp_debug-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug-tvOSTests/Pods-JMApp_debug-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		75CC82E1201BB6D4000032DF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "JMApp_debug/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
-		89F27844A8D5704DB1D191AF /* Pods-JMApp_debug-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		86C4B6F6845624DFC9333A5B /* libPods-JMApp_debug-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JMApp_debug-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		956C830A28DBCCD6327F466F /* Pods-JMApp_debugTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debugTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debugTests/Pods-JMApp_debugTests.release.xcconfig"; sourceTree = "<group>"; };
+		9651D80AE39E1E62A6D00379 /* Pods-JMApp_debug-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		977E13172AE6BCB611DC8214 /* Pods-JMApp_debug-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		9BEE269C5DBA4295971D08D1 /* libRNFirebase.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNFirebase.a; sourceTree = "<group>"; };
+		AD9FA488A65B142090FD6E6C /* Pods-JMApp_debugTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debugTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debugTests/Pods-JMApp_debugTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
-		CD034A013D9128C3DDFEA8B3 /* libPods-JMApp_debug-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JMApp_debug-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D7780A7199F4D0A8E2A9374A /* Pods-JMApp_debug.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug/Pods-JMApp_debug.debug.xcconfig"; sourceTree = "<group>"; };
-		E1D9E90B53D7291153710E31 /* Pods-JMApp_debug.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debug.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debug/Pods-JMApp_debug.release.xcconfig"; sourceTree = "<group>"; };
-		F36727F10CEB13F2B32D5813 /* Pods-JMApp_debugTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMApp_debugTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMApp_debugTests/Pods-JMApp_debugTests.debug.xcconfig"; sourceTree = "<group>"; };
+		DA305D063EE84DE596394F6D /* RNFirebase.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNFirebase.xcodeproj; path = "../node_modules/react-native-firebase/ios/RNFirebase.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -368,7 +378,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */,
-				7150879ECBA54F82586CA505 /* libPods-JMApp_debugTests.a in Frameworks */,
+				675C37D3C7A528D578BA0250 /* libPods-JMApp_debugTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -389,7 +399,8 @@
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
-				AB2993C3F57FCED980E2791F /* libPods-JMApp_debug.a in Frameworks */,
+				1221BA47AA67782C92A53942 /* libPods-JMApp_debug.a in Frameworks */,
+				4FB82B73E41144AFADB3D69E /* libRNFirebase.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,7 +416,7 @@
 				2D02E4C61E0B4AEC006451C7 /* libRCTSettings-tvOS.a in Frameworks */,
 				2D02E4C71E0B4AEC006451C7 /* libRCTText-tvOS.a in Frameworks */,
 				2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */,
-				F83700F720CC503EEE1DB174 /* libPods-JMApp_debug-tvOS.a in Frameworks */,
+				088FC9DD1B459EC9DAD8B865 /* libPods-JMApp_debug-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,7 +424,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14AA4A3A455662FDE240EC44 /* libPods-JMApp_debug-tvOSTests.a in Frameworks */,
+				3E9368790789652C1F64E0E7 /* libPods-JMApp_debug-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -541,12 +552,27 @@
 			isa = PBXGroup;
 			children = (
 				2D16E6891FA4F8E400B85C8A /* libReact.a */,
-				4680BF0C9225FE7C6E614038 /* libPods-JMApp_debug.a */,
-				3E0EE22AA589D1A8474B43CF /* libPods-JMApp_debug-tvOS.a */,
-				CD034A013D9128C3DDFEA8B3 /* libPods-JMApp_debug-tvOSTests.a */,
-				0A2A5E8AC096D89C825C49C2 /* libPods-JMApp_debugTests.a */,
+				098C068306489FFCDBD93456 /* libPods-JMApp_debug.a */,
+				31124FAF64C9F2671957D049 /* libPods-JMApp_debug-tvOS.a */,
+				86C4B6F6845624DFC9333A5B /* libPods-JMApp_debug-tvOSTests.a */,
+				0C1978AAE1597DB095206659 /* libPods-JMApp_debugTests.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		35D7E0BD89BFF9C3B864B0DF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0B6E28CA92576E4C435E4850 /* Pods-JMApp_debug.debug.xcconfig */,
+				49BACBA68DBDD4DD1C3566C4 /* Pods-JMApp_debug.release.xcconfig */,
+				9651D80AE39E1E62A6D00379 /* Pods-JMApp_debug-tvOS.debug.xcconfig */,
+				977E13172AE6BCB611DC8214 /* Pods-JMApp_debug-tvOS.release.xcconfig */,
+				60682B163AFB3080D21AA206 /* Pods-JMApp_debug-tvOSTests.debug.xcconfig */,
+				323B53D68E0203175F117D64 /* Pods-JMApp_debug-tvOSTests.release.xcconfig */,
+				AD9FA488A65B142090FD6E6C /* Pods-JMApp_debugTests.debug.xcconfig */,
+				956C830A28DBCCD6327F466F /* Pods-JMApp_debugTests.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		5E91572E1DD0AC6500FF2AA8 /* Products */ = {
@@ -554,6 +580,22 @@
 			children = (
 				5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */,
 				5E9157351DD0AC6500FF2AA8 /* libRCTAnimation.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		75CC8458201BD0B7000032DF /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				9BEE269C5DBA4295971D08D1 /* libRNFirebase.a */,
+			);
+			name = "Recovered References";
+			sourceTree = "<group>";
+		};
+		75CC847E201BD0B9000032DF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				75CC8482201BD0B9000032DF /* libRNFirebase.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -582,6 +624,7 @@
 				832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */,
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
+				DA305D063EE84DE596394F6D /* RNFirebase.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -603,7 +646,8 @@
 				00E356EF1AD99517003FC87E /* JMApp_debugTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				A1EE050BEAE1067BA18D17FB /* Pods */,
+				35D7E0BD89BFF9C3B864B0DF /* Pods */,
+				75CC8458201BD0B7000032DF /* Recovered References */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -619,21 +663,6 @@
 				2D02E4901E0B4A5D006451C7 /* JMApp_debug-tvOSTests.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		A1EE050BEAE1067BA18D17FB /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				D7780A7199F4D0A8E2A9374A /* Pods-JMApp_debug.debug.xcconfig */,
-				E1D9E90B53D7291153710E31 /* Pods-JMApp_debug.release.xcconfig */,
-				89F27844A8D5704DB1D191AF /* Pods-JMApp_debug-tvOS.debug.xcconfig */,
-				2437575BFA0131E2CB33F244 /* Pods-JMApp_debug-tvOS.release.xcconfig */,
-				34D01DE299381CBF95F49671 /* Pods-JMApp_debug-tvOSTests.debug.xcconfig */,
-				04E4D0CCAB1C6A1887A198C6 /* Pods-JMApp_debug-tvOSTests.release.xcconfig */,
-				F36727F10CEB13F2B32D5813 /* Pods-JMApp_debugTests.debug.xcconfig */,
-				631D2020ADF3A1C7099228C2 /* Pods-JMApp_debugTests.release.xcconfig */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 		ADBDB9201DFEBF0600ED6528 /* Products */ = {
@@ -652,12 +681,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "JMApp_debugTests" */;
 			buildPhases = (
-				2AE30D23B14D35750BB645DE /* [CP] Check Pods Manifest.lock */,
+				A6447D4C3FEDF81B64E8BBA0 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				1C21233F649FFF810AF3BD14 /* [CP] Embed Pods Frameworks */,
-				8B6649342E4ADA564D572510 /* [CP] Copy Pods Resources */,
+				044F17CC861C6DBE975D9627 /* [CP] Embed Pods Frameworks */,
+				3BC334402296671AFC5568AC /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -673,13 +702,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "JMApp_debug" */;
 			buildPhases = (
-				435D14589BE556E8DA322FEB /* [CP] Check Pods Manifest.lock */,
+				4E2C658574E8979C43239F43 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				F95FAD1669C742E5D8D1CC8C /* [CP] Embed Pods Frameworks */,
-				DB052823B61505303E506CF1 /* [CP] Copy Pods Resources */,
+				9F01F32620C093FAF1E580F7 /* [CP] Embed Pods Frameworks */,
+				24F682BDE899DBDD5EFE68EF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -694,13 +723,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "JMApp_debug-tvOS" */;
 			buildPhases = (
-				635F34E957E51AED2AACE86B /* [CP] Check Pods Manifest.lock */,
+				56B4251F97C85D515F4312A6 /* [CP] Check Pods Manifest.lock */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
 				2D02E4791E0B4A5D006451C7 /* Resources */,
 				2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */,
-				94854C60487DD3442304C046 /* [CP] Embed Pods Frameworks */,
-				A73B569E0E9D95538EC8E46F /* [CP] Copy Pods Resources */,
+				6D1D3870B62AF61B0B1DB7D7 /* [CP] Embed Pods Frameworks */,
+				7AEED3E96030F9D4A1891835 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -715,12 +744,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "JMApp_debug-tvOSTests" */;
 			buildPhases = (
-				3E8379E12A97E4A1777A52C4 /* [CP] Check Pods Manifest.lock */,
+				7768DCED9672FF9741441FDC /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
-				1FADEB7AA0FFA2680532F0EC /* [CP] Embed Pods Frameworks */,
-				ED63CDA1AA467E6F276937F2 /* [CP] Copy Pods Resources */,
+				C18C3752E88A5826EFE05817 /* [CP] Embed Pods Frameworks */,
+				C4A86C376F9B2E466A5A9871 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -738,7 +767,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 610;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -815,6 +844,10 @@
 				{
 					ProductGroup = 146834001AC3E56700842450 /* Products */;
 					ProjectRef = 146833FF1AC3E56700842450 /* React.xcodeproj */;
+				},
+				{
+					ProductGroup = 75CC847E201BD0B9000032DF /* Products */;
+					ProjectRef = DA305D063EE84DE596394F6D /* RNFirebase.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -1066,6 +1099,13 @@
 			remoteRef = 75CC8315201BB6D4000032DF /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		75CC8482201BD0B9000032DF /* libRNFirebase.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRNFirebase.a;
+			remoteRef = 75CC8481201BD0B9000032DF /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 		78C398B91ACF4ADC00677621 /* libRCTLinking.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
@@ -1139,7 +1179,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		1C21233F649FFF810AF3BD14 /* [CP] Embed Pods Frameworks */ = {
+		044F17CC861C6DBE975D9627 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1154,162 +1194,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debugTests/Pods-JMApp_debugTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		1FADEB7AA0FFA2680532F0EC /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOSTests/Pods-JMApp_debug-tvOSTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		2AE30D23B14D35750BB645DE /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-JMApp_debugTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Bundle React Native Code And Images";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
-		};
-		3E8379E12A97E4A1777A52C4 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-JMApp_debug-tvOSTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		435D14589BE556E8DA322FEB /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-JMApp_debug-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		635F34E957E51AED2AACE86B /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-JMApp_debug-tvOS-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		8B6649342E4ADA564D572510 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debugTests/Pods-JMApp_debugTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		94854C60487DD3442304C046 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A73B569E0E9D95538EC8E46F /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS-resources.sh",
-				"${PODS_ROOT}/FirebaseInvites/Resources/GINInviteResources.bundle",
-				"${PODS_ROOT}/FirebaseInvites/Resources/GPPACLPickerResources.bundle",
-				"${PODS_ROOT}/GTMOAuth2/Source/Touch/GTMOAuth2ViewTouch.xib",
-				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GINInviteResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GPPACLPickerResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GTMOAuth2ViewTouch.nib",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleSignIn.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		DB052823B61505303E506CF1 /* [CP] Copy Pods Resources */ = {
+		24F682BDE899DBDD5EFE68EF /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1333,7 +1218,21 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug/Pods-JMApp_debug-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		ED63CDA1AA467E6F276937F2 /* [CP] Copy Pods Resources */ = {
+		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native Code And Images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+		};
+		3BC334402296671AFC5568AC /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1345,10 +1244,94 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOSTests/Pods-JMApp_debug-tvOSTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debugTests/Pods-JMApp_debugTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		F95FAD1669C742E5D8D1CC8C /* [CP] Embed Pods Frameworks */ = {
+		4E2C658574E8979C43239F43 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-JMApp_debug-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		56B4251F97C85D515F4312A6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-JMApp_debug-tvOS-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6D1D3870B62AF61B0B1DB7D7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7768DCED9672FF9741441FDC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-JMApp_debug-tvOSTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7AEED3E96030F9D4A1891835 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOS/Pods-JMApp_debug-tvOS-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9F01F32620C093FAF1E580F7 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1361,6 +1344,54 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug/Pods-JMApp_debug-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A6447D4C3FEDF81B64E8BBA0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-JMApp_debugTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C18C3752E88A5826EFE05817 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOSTests/Pods-JMApp_debug-tvOSTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C4A86C376F9B2E466A5A9871 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMApp_debug-tvOSTests/Pods-JMApp_debug-tvOSTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -1430,16 +1461,24 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F36727F10CEB13F2B32D5813 /* Pods-JMApp_debugTests.debug.xcconfig */;
+			baseConfigurationReference = AD9FA488A65B142090FD6E6C /* Pods-JMApp_debugTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
+				);
 				INFOPLIST_FILE = JMApp_debugTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -1452,13 +1491,21 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 631D2020ADF3A1C7099228C2 /* Pods-JMApp_debugTests.release.xcconfig */;
+			baseConfigurationReference = 956C830A28DBCCD6327F466F /* Pods-JMApp_debugTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
+				);
 				INFOPLIST_FILE = JMApp_debugTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -1471,11 +1518,15 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D7780A7199F4D0A8E2A9374A /* Pods-JMApp_debug.debug.xcconfig */;
+			baseConfigurationReference = 0B6E28CA92576E4C435E4850 /* Pods-JMApp_debug.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
+				);
 				INFOPLIST_FILE = JMApp_debug/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1483,6 +1534,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.JMAppDebugger;
 				PRODUCT_NAME = JMApp_debug;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1490,10 +1542,14 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E1D9E90B53D7291153710E31 /* Pods-JMApp_debug.release.xcconfig */;
+			baseConfigurationReference = 49BACBA68DBDD4DD1C3566C4 /* Pods-JMApp_debug.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
+				);
 				INFOPLIST_FILE = JMApp_debug/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1501,6 +1557,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.JMAppDebugger;
 				PRODUCT_NAME = JMApp_debug;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1508,7 +1565,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89F27844A8D5704DB1D191AF /* Pods-JMApp_debug-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 9651D80AE39E1E62A6D00379 /* Pods-JMApp_debug-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -1519,8 +1576,16 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
+				);
 				INFOPLIST_FILE = "JMApp_debug-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -1536,7 +1601,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2437575BFA0131E2CB33F244 /* Pods-JMApp_debug-tvOS.release.xcconfig */;
+			baseConfigurationReference = 977E13172AE6BCB611DC8214 /* Pods-JMApp_debug-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -1547,8 +1612,16 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
+				);
 				INFOPLIST_FILE = "JMApp_debug-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -1564,7 +1637,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 34D01DE299381CBF95F49671 /* Pods-JMApp_debug-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 60682B163AFB3080D21AA206 /* Pods-JMApp_debug-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1576,6 +1649,10 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "JMApp_debug-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.JMApp_debug-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
@@ -1586,7 +1663,7 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 04E4D0CCAB1C6A1887A198C6 /* Pods-JMApp_debug-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 323B53D68E0203175F117D64 /* Pods-JMApp_debug-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1598,6 +1675,10 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "JMApp_debug-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.JMApp_debug-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
