@@ -1,0 +1,3 @@
+rootProject.name = 'JMApp_debug'
+
+include ':app'

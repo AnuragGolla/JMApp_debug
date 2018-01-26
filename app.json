@@ -2,5 +2,7 @@
   "expo": {
     "name": "JMApp Debug",
     "sdkVersion": "25.0.0"
-  }
+  },
+  "name": "JMApp_debug",
+  "displayName": "JMApp Debug"
 }
